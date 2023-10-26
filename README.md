@@ -3,7 +3,7 @@
 
 ### About Me
 - 🔭 I’m currently working with React,Tailwind,Typescript,Firebase
-- 🌱 I’m currently learning NextJS and TYpescript
+- 🌱 I’m currently learning NextJS and Typescript
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with Website Layout and Functionality
 - 💬 Ask me about ...
