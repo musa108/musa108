@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Im Musa Umaru A Frontend Developer From NIgeria
+- I'm Musa Umaru A Frontend Developer From NIgeria
 <!--
 **musa108/musa108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
