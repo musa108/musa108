@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Musa Umaru A Frontend Developer From NIgeria
+- I'm Musa Umaru A full stack Developer From NIgeria
 
 ### About Me
 - 🔭 I’m currently working with React,Tailwind,Typescript,Firebase
