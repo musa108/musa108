@@ -19,82 +19,6 @@ I'm a passionate software engineer from Nigeria focused on building scalable web
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* HTML5
-* CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-* Firebase
-* REST APIs
-* Prisma ORM
-* PostgreSQL
-
-### AI & Automation
-
-* OpenAI APIs
-* AI Agents
-* Vercel AI SDK
-* RAG Applications
-* Document Processing Systems
-
-### Blockchain
-
-* Solidity
-* Hardhat
-* Smart Contracts
-* NFT Development
-* Web3 Integration
-
-### Tools & Platforms
-
-* Git & GitHub
-* Vercel
-* Firebase
-* Auth0
-* MongoDB
-* PostgreSQL
-* Docker (Learning)
-* Alibaba Cloud (Learning)
-
----
-
-## 🌟 Featured Projects
-
-### 🎓 AI-Enhanced Student Collaboration Platform
-
-A collaborative learning platform featuring:
-
-* Group creation and management
-* Real-time chat
-* Video conferencing
-* AI-powered assistance
-* Resource sharing
-
-### 📚 Smart Intranet Library Repository System
-
-A digital repository system with intelligent search capabilities for academic resources.
-
-### 🤖 TaxPilot AI
-
-An AI-powered platform designed to help individuals and businesses understand and navigate Nigerian tax regulations.
-
-### 🌐 Offline Digital Library
-
-A modern book repository built with Next.js, TypeScript, and Tailwind CSS.
-
----
-
 ## 📈 Current Focus
 
 * Building AI-powered products
@@ -108,8 +32,8 @@ A modern book repository built with Next.js, TypeScript, and Tailwind CSS.
 ## 📫 Connect With Me
 
 * Email: [nmanagi23@gmail.com](mailto:nmanagi23@gmail.com)
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/musa108
+* LinkedIn: [https://linkedin.com/i](https://www.linkedin.com/in/musa-umaru-470a8a230/)
 
 ---
 
